@@ -5,7 +5,7 @@ We love our work, and we mean we LOVE our work.
 Except that legacy project we don't like. And you will not like it too.
 
 ## What languages makes you forget about time? :nerd_face:
-We use PHP in our day to day code adventures. We use 7.0 We are not limited to it
+We use PHP in our day to day code adventures. We use PHP ~7.1 We are not limited to it
 though. Use best tool for the job someone once said.
 Everyday we argue about Symfony over Laravel, still we don't have the
 answer. Maybe we could try something cooler? Or even create something better?
